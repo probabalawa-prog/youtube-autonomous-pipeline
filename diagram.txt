@@ -1,0 +1,23 @@
+script.txt
+    |
+    v
+Edge-TTS
+    |
+    v
+audio.mp3
+    |
+    v
+Whisper
+    |
+    v
+audio.srt
+    |
+    v
+FFmpeg
+    |
+    v
+long_video.mp4
+    |
+    +--> short1.mp4
+    +--> short2.mp4
+    +--> short3.mp4

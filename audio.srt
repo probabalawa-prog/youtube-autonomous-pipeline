@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:04,000
+Artificial intelligence is transforming the way businesses operate.
+
+2
+00:00:04,000 --> 00:00:10,000
+Modern automation systems can create content, process information, and improve productivity.
+
+3
+00:00:10,000 --> 00:00:16,000
+Companies are using AI to reduce repetitive work and focus on higher value activities.
+
+4
+00:00:16,000 --> 00:00:23,000
+As AI technology continues to evolve, businesses that embrace automation will gain a significant competitive advantage.
+
